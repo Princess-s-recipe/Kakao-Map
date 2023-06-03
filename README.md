@@ -1,5 +1,5 @@
 ## Kakao-Map
-* Selenium과 BeautifulSoup를 활용한 카카오맵 크롤러
+* Selenium을 활용한 카카오맵 크롤러
 * 마포구의 고기 맛집, 초밥, 카페 크롤링
 
 
